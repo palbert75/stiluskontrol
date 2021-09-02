@@ -1,49 +1,38 @@
 ---
-title: "Inspirational Monday: Photographing Pairs in Nature"
+title: "Automatizálás / IT"
 date: 2019-05-12T12:14:34+06:00
 image: "images/post/post-3.jpg"
-author: "John Doe" # use capitalize
+author: "Cseh László" # use capitalize
 description: "This is meta description."
-categories: ["inspire"]
-tags: ["new", "inspire", "nature"]
+categories: []
+tags: []
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Cégünk 2018-ban alakult mérnöki feladatok elvégzésére. Vezetője Cseh László, aki jelenleg több mint 20 éves villamosmérnöki tapasztalattal rendelkezik. Fő profilunk a programozás, de teljes megoldásokat is tudunk adni automatizálás terén. Éves árbevételünk meghaladja a 30 millió forintot. Jelentős autóipari tapasztalatunk van, számos komplex feladatot végeztünk el gépész partnereink bevonásával.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Vállaljuk termelő gépek tervezését, megépítését, karbantartását. Gépeink teljes mértékben megfelelnek a magyar és EU-s törvényeknek, minden téren. Ha nem szeretne biztonságtechnikai, üzemeltetési, hatékonysági problémákba ütközni, kérje segítségünket.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Feladatok amit sikeresen elvégeztünk:
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+* Félautomata ellenállás hegesztő berendezés gyártása
+* Légzsák csatlakozók összeszerelése, tömítettség ellenőrzése
+* Adatátviteli kábel összeszerelő gép gyártás
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Napjainkban a vállalatok egyik legnagyobb kihívása, hogy megfelelő minőségben állítsa elő termékeit, a lehető legkevesebb emberi munka befektetésével. Mind a minőségre, mind az emberi erőforrás szükségének csökkentésére jó megoldás lehet a korszerű képfeldolgozás használata. Miért fizetne sok pénzt azért, hogy termékeit emberek válogassák, akik gyakran hibáznak is? Kérje segítségünket, ha selejtet vagy a válogatási költséget csökkentene.
+
+* Feladatok amit sikeresen elvégeztünk:
+* Vezetékek színeinek ellenőrzése
+* Összeszerelt csatlakozók ellenőrzése
+* Alapanyagok keveredésének megakadályozása
+
+
+Vállaljuk meglévő gépén hibakeresési, átalakítási, karbantartási munkák elvégzését.
+Fő profilunk a Siemens PLC-ket érinti. Ide értve az S7 300-400-1200-1500 rendszerek programozását is  Emellett van tapasztalatunk az Omron eszközökkel is.
+
+Remekül működő cégét még jobbá teheti, ha a termelés monitorozó rendszerünket használja. Folyamatosan nyomon követheti, a termelt mennyiségeket, selejtet, szünetek betartását. Rendszerünkkel csökkentheti a veszteségeket. Dolgozói már a rendszer bevezetésének ténye miatt is javuló eredményeket fognak produkálni.
+
+Olvassa el rövid ismertetőnket [LINK]
+
+
+Technikai leírásunk [LINK]

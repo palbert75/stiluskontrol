@@ -1,11 +1,11 @@
 ######################## default configuration ####################
 baseURL = "https://www.example.com"
-title = "Persian"
+title = "Stíluskontrol"
 theme = "persian"
 languageName = "En"
 languageCode = "en-us"
 # post pagination
-paginate = "5"
+paginate = "3"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 
@@ -39,27 +39,24 @@ link = "plugins/search/search.js"
 
 ################################ menu ##################################
 [[menu.main]]
-name = "Home"
+name = "Start"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
+name = "Rólunk"
 url = "about"
 weight = 2
 
-[[menu.main]]
-name = "Category"
-url = "categories/nature/"
-weight = 3
+
 
 [[menu.main]]
-name = "Contact"
+name = "Kontakt"
 url = "contact"
 weight = 4
 
 [[menu.main]]
-name = "Privacy Policy"
+name = "Adatkezelés"
 url = "privacy-policy"
 weight = 5
 
@@ -75,7 +72,7 @@ search = true
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed & Developed By [Onbased](https://onbased.com/)"
 
 # Preloader
 [params.preloader]
