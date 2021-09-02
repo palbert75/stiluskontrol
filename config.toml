@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.example.com"
+baseURL = "https://stiluskontroll.netlify.app"
 title = "Stílus Kontroll"
 theme = "persian"
 languageName = "En"
