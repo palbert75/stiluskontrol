@@ -1,5 +1,5 @@
 ---
-title: "Stíluskontrol KFT."
+title: "Stílus Kontroll KFT."
 date: 2020-05-12T12:14:34+06:00
 image: "images/post/post-1.jpg"
 author: "Cseh László" # use capitalize
